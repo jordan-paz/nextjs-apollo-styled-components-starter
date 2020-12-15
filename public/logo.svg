@@ -1,75 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="371px" height="355px" viewBox="0 0 371 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>Logo</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <filter x="-3.9%" y="-3.9%" width="107.9%" height="107.9%" filterUnits="objectBoundingBox" id="filter-1">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.139887456 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
-        </filter>
-        <rect id="path-2" x="0" y="0" width="342.999994" height="342.999994"></rect>
-        <pattern id="pattern-3" width="18.6332781" height="18.6332781" x="-18.6332781" y="-18.6332781" patternUnits="userSpaceOnUse">
-            <use xlink:href="#image-4" transform="scale(0.388193295,0.388193295)"></use>
-        </pattern>
-        <image id="image-4" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAADbN2wMAAABX0lEQVRoBe3Y7Q2CMBAGYGu3gOgOJrAQcRAHUXcwrsEcrFH7agpB+ex5cJfQH9ISvfO5xkjP5Hnudn445+5lWZ4xxZo4TJZlV2NMEeJwxbdpml6QxCc7JUlyqKrqGZJSroiDeIjLGd/6JEfuJJzx7VKV4kJYbK9mxBugGVEDtCJaAI2IH4A2RCdAE6IXoAUxCNCAGAVIR0wCSEZMBkhFzAJIRMwGSENEASQhogFSECSABAQZsDYCAIMvQR1rHYqs7x7ckJwKwOfXQKAr8dDYjQhn7D0q5xcF+jiYYk0cDv0l9IFCHM74W18oVLnrusRvYusLdVX++x7nTtR/ZJxJAOKKXwM4k4Qd4UC0ABoRPwBtiE6AJkQvQAtiEKABMQqQjpgEkIyYDJCKmAWQiJgNkIaIAkhCRAOkIEgACQgyYG0EAP84yLM976NAGH2P4ltf6FOf5rWvUrjfvCt+9h3/BX5SBuUP9sYWAAAAAElFTkSuQmCC"></image>
-        <filter x="-2.0%" y="-4.7%" width="103.9%" height="109.4%" filterUnits="objectBoundingBox" id="filter-5">
-            <feOffset dx="7" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0343913899 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
-        </filter>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-898.000000, -83.000000)">
-            <g id="Logo" transform="translate(639.000000, 88.000000)">
-                <g id="Pizza-Box" filter="url(#filter-1)" transform="translate(272.999995, -0.000000)">
-                    <rect id="white" fill="#FFFFFF" x="0" y="0" width="342.999994" height="342.999994"></rect>
-                    <g id="stripes">
-                        <use fill="url(#pattern-3)" fill-rule="evenodd" xlink:href="#path-2"></use>
-                        <use fill="#FF4949" fill-rule="evenodd" style="mix-blend-mode: lighten;" xlink:href="#path-2"></use>
-                        <rect stroke="#FFFFFF" stroke-width="14.6999997" stroke-linejoin="square" x="7.34999987" y="7.34999987" width="328.299994" height="328.299994"></rect>
-                    </g>
-                    <rect id="White-Inner" fill="#FFFFFF" x="24.4999996" y="24.4999996" width="293.999995" height="293.999995"></rect>
-                </g>
-                <g id="Slicks" filter="url(#filter-5)" transform="translate(0.166867, 6.932493)" fill="#FF4949" font-family="FrenchFries-Regular, French Fries" font-weight="normal">
-                    <text id="S" transform="translate(290.443993, 144.451997) rotate(-10.000000) translate(-290.443993, -144.451997) " font-size="130.591997">
-                        <tspan x="258.579546" y="179.047999">S</tspan>
-                    </text>
-                    <text id="L" transform="translate(358.819992, 129.667997) rotate(2.000000) translate(-358.819992, -129.667997) " font-size="159.543996">
-                        <tspan x="325.953929" y="193.263999">L</tspan>
-                    </text>
-                    <text id="i" transform="translate(396.395991, 129.667997) rotate(-7.000000) translate(-396.395991, -129.667997) " font-size="128.743997">
-                        <tspan x="379.916759" y="162.263999">i</tspan>
-                    </text>
-                    <text id="c" transform="translate(453.376684, 147.528059) rotate(10.000000) translate(-453.376684, -147.528059) " font-size="134.903997">
-                        <tspan x="420.932273" y="201.528059">c</tspan>
-                    </text>
-                    <text id="k" transform="translate(514.704802, 127.412779) rotate(-10.000000) translate(-514.704802, -127.412779) " font-size="159.543996">
-                        <tspan x="474.021083" y="191.412779">k</tspan>
-                    </text>
-                    <text id="‘" transform="translate(549.781355, 136.440240) rotate(20.000000) translate(-549.781355, -136.440240) " font-size="134.903997">
-                        <tspan x="539.798459" y="190.44024">‘</tspan>
-                    </text>
-                    <text id="s" transform="translate(603.430460, 112.844738) rotate(17.000000) translate(-603.430460, -112.844738) " font-size="141.063997">
-                        <tspan x="574.441809" y="169.344738">s</tspan>
-                    </text>
-                </g>
-                <text id="SLICES" font-family="FrenchFries-Regular, French Fries" font-size="55.2999991" font-weight="normal" letter-spacing="15.8481355" fill="#000000">
-                    <tspan x="325.84304" y="275.938363">SLICES</tspan>
-                </text>
-                <text id="EST-1994" font-family="FrenchFries-Regular, French Fries" font-size="13.2999998" font-weight="normal" letter-spacing="3.81157716" fill="#000000">
-                    <tspan x="408.575167" y="66.7381519">EST </tspan>
-                    <tspan x="446.471375" y="66.7381519" letter-spacing="1.51847381">1994</tspan>
-                </text>
-            </g>
-        </g>
-    </g>
+<svg width="130" height="130" viewBox="0 0 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="9" width="109" height="111" fill="#FFC31F"/>
+<path d="M102 74.7599C99.6244 83.4002 94.738 90.9965 88.0561 96.4372C81.3743 101.878 73.2476 104.877 64.8654 104.996C56.4832 105.115 48.2856 102.348 41.4722 97.0991C34.6588 91.8502 29.5874 84.3954 27 75.8256L38.7417 71.7306C40.5156 77.6061 43.9926 82.7172 48.6638 86.3158C53.3351 89.9144 58.9554 91.8118 64.7022 91.7301C70.449 91.6484 76.0207 89.5921 80.6018 85.862C85.1829 82.1319 88.5329 76.9238 90.1617 71L102 74.7599Z" fill="black"/>
+<rect x="58.0714" y="25" width="13.9286" height="56" fill="black"/>
+<path d="M71.7511 65.3935C75.1905 65.3935 78.5962 64.9898 81.7738 64.2055C84.9514 63.4212 87.8386 62.2717 90.2706 60.8225C92.7026 59.3732 94.6318 57.6528 95.948 55.7593C97.2642 53.8658 97.9416 51.8364 97.9416 49.7869C97.9416 47.7375 97.2642 45.7081 95.948 43.8146C94.6318 41.9211 92.7026 40.2006 90.2706 38.7514C87.8386 37.3022 84.9514 36.1527 81.7738 35.3684C78.5962 34.5841 75.1905 34.1804 71.7511 34.1804L71.7511 43.2376C73.1945 43.2376 74.6237 43.407 75.9572 43.7361C77.2907 44.0653 78.5023 44.5477 79.5229 45.1559C80.5435 45.764 81.3531 46.486 81.9054 47.2806C82.4578 48.0752 82.7421 48.9269 82.7421 49.7869C82.7421 50.647 82.4578 51.4987 81.9054 52.2933C81.3531 53.0879 80.5435 53.8099 79.5229 54.418C78.5023 55.0262 77.2907 55.5086 75.9572 55.8378C74.6237 56.1669 73.1945 56.3363 71.7511 56.3363L71.7511 65.3935Z" fill="black"/>
+<path d="M30.9325 45.4485C30.9611 48.0998 31.4721 50.7217 32.4365 53.1646C33.4009 55.6075 34.7997 57.8236 36.5531 59.6862C38.3065 61.5489 40.3801 63.0217 42.6556 64.0205C44.931 65.0194 47.3638 65.5247 49.8149 65.5076C52.266 65.4906 54.6875 64.9515 56.9411 63.9212C59.1947 62.8908 61.2363 61.3894 62.9493 59.5027C64.6623 57.6159 66.0132 55.3807 66.9248 52.9248C67.8364 50.4688 68.2909 47.8402 68.2624 45.1889L58.1467 45.2593C58.1598 46.4736 57.9516 47.6777 57.534 48.8026C57.1165 49.9275 56.4977 50.9513 55.7131 51.8155C54.9285 52.6797 53.9934 53.3674 52.9611 53.8394C51.9289 54.3113 50.8197 54.5582 49.697 54.566C48.5743 54.5738 47.4601 54.3424 46.4178 53.8849C45.3756 53.4274 44.4258 52.7528 43.6226 51.8996C42.8195 51.0464 42.1788 50.0314 41.7371 48.9124C41.2954 47.7935 41.0613 46.5926 41.0482 45.3782L30.9325 45.4485Z" fill="black"/>
+<path d="M17.52 6.5C11.4338 6.5 6.5 11.4338 6.5 17.52V112.48C6.5 118.566 11.4338 123.5 17.52 123.5H112.48C118.566 123.5 123.5 118.566 123.5 112.48V17.52C123.5 11.4338 118.566 6.5 112.48 6.5H17.52Z" stroke="black" stroke-width="13"/>
 </svg>
