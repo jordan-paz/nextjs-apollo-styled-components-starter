@@ -3,16 +3,15 @@
 @tailwind utilities;
 
 :root {
-  --red: #ff4949;
-  --black: #2e2e2e;
-  --yellow: #ffc600;
-  --white: #fff;
-  --grey: #efefef;
+  --orange: #fc6238;
+  --black: #1d1603;
+  --white: #fff9e9;
 }
 html {
   font-family: Archivo, -apple-system, BlinkMacSystemFont, Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color: var(--black);
+  background-color: (--white);
   font-size: 16px;
 }
 

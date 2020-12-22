@@ -3,7 +3,7 @@ import { gql } from "@apollo/client";
 
 export default function Home({ allPostData }) {
   console.log(allPostData);
-  return <div>Home</div>;
+  return <div></div>;
 }
 
 // This is an exmaple. Replace with you actual query

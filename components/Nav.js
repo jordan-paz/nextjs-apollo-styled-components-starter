@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export default function Nav() {
   return (
-    <nav>
-      <ul className="flex justify-between mt-10 ml-7 mr-7">
+    <nav className="bg-white">
+      <ul className="flex justify-between items-center mt-10 pl-6 pr-6 pt-11">
         <li>
           <Link href="/">
             <img src="/logo.svg" className="w-12 h-12" />
           </Link>
         </li>
-        <div>Bars</div>
+        <img src="/bars.svg" className="h-6" />
       </ul>
     </nav>
   );
