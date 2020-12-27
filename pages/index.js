@@ -1,9 +1,14 @@
 import { initializeApollo } from "../apolloClient";
 import { gql } from "@apollo/client";
+import { Fragment } from "react";
+import Hero from "../components/Hero";
 
 export default function Home({ allPostData }) {
-  console.log(allPostData);
-  return <div></div>;
+  return (
+    <Fragment>
+      <Hero />
+    </Fragment>
+  );
 }
 
 // This is an exmaple. Replace with you actual query

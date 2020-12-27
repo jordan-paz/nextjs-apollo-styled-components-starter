@@ -15,6 +15,7 @@ html {
   font-size: 16px;
 }
 
+/* Typography */
 p,
 li {
   letter-spacing: 0.5px;
@@ -25,11 +26,17 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: normal;
   margin: 0;
 }
+
 a {
   color: var(--black);
+}
+
+h4 {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 43px;
 }
 
 /* Scrollbar Styles */
